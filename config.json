@@ -1,6 +1,6 @@
 {
     "app_id": "com.itsup.abitmobile",
-    "appname": "ABIT LMSe",
+    "appname": "ABIT LMS",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3610,
     "versionname": "3.6.1",
@@ -54,7 +54,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https:\/\/lm.msk.ru",
+    "siteurl": "https:\/\/lms.msk.ru",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
