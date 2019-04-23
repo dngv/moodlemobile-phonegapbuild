@@ -70,8 +70,10 @@
 
     <icon src="icon.png" />
     <gap:splash src="splash.png" />
+    
 
     <platform name="android">
+        <hook type="after_prepare" src="android_app_name.js" />
         <resource-file src="google-services.json" target="app/google-services.json" />
         <icon src="resources/android/icon/drawable-ldpi-icon.png" density="ldpi"/>
         <icon src="resources/android/icon/drawable-mdpi-icon.png" density="mdpi"/>
